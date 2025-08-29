@@ -1,5 +1,5 @@
 # Denver Airbnb Analysis
-Creators: Luke Roberts, Kanchan Kumari, Angelina Murdock<br>
+Creators: Luke Roberts, Kanchan Ratan, Angelina Murdock<br>
 Date: April 2025
 
 ## Table of Contents
